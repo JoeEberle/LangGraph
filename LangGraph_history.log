@@ -1,0 +1,28 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-12-10 13:15:26,911 - INFO - START LangGraph =============================================
+2025-12-10 13:15:26,911 - INFO - START LangGraph Start Time = 2025-12-10 13:15:26
+2025-12-10 13:15:26,913 - INFO - LangGraph Step 0 - Initialize the configuration file parser
+2025-12-10 13:15:26,914 - INFO - Process LangGraph Step 0 - Initializing and starting Logging Process.
+2025-12-10 13:15:27,016 - INFO - PERFORMANCE LangGraph The total process duration was:0.11
+2025-12-10 13:15:27,017 - INFO - PERFORMANCE LangGraph Stop Time = 2025-12-10 13:15:27
+2025-12-10 13:15:27,018 - INFO - PERFORMANCE LangGraph Short process duration less than 3 Seconds:0.11
+2025-12-10 13:15:27,018 - INFO - PERFORMANCE LangGraph Performance optimization is not reccomended
+2025-12-10 13:15:27,018 - INFO - END LangGraph =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-12-15 14:43:05,548 - INFO - START LangGraph =============================================
+2025-12-15 14:43:05,548 - INFO - START LangGraph Start Time = 2025-12-15 14:43:05
+2025-12-15 14:43:05,548 - INFO - LangGraph Step 0 - Initialize the configuration file parser
+2025-12-15 14:43:05,548 - INFO - Process LangGraph Step 0 - Initializing and starting Logging Process.
+2025-12-15 14:43:21,482 - INFO - PERFORMANCE LangGraph The total process duration was:15.93
+2025-12-15 14:43:21,482 - INFO - PERFORMANCE LangGraph Stop Time = 2025-12-15 14:43:21
+2025-12-15 14:43:21,482 - INFO - PERFORMANCE LangGraph Low process duration less than 3 minutes:15.93
+2025-12-15 14:43:21,482 - INFO - PERFORMANCE LangGraph Performance optimization is optional
+2025-12-15 14:43:21,482 - INFO - END LangGraph =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
