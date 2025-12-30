@@ -54,3 +54,45 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-12-29 18:37:40,617 - INFO - START LangGraph =============================================
+2025-12-29 18:37:40,617 - INFO - START LangGraph Start Time = 2025-12-29 18:37:40
+2025-12-29 18:37:40,617 - INFO - LangGraph Step 0 - Initialize the configuration file parser
+2025-12-29 18:37:40,617 - INFO - Process LangGraph Step 0 - Initializing and starting Logging Process.
+2025-12-29 18:38:02,911 - INFO - PERFORMANCE LangGraph The total process duration was:22.30
+2025-12-29 18:38:02,911 - INFO - PERFORMANCE LangGraph Stop Time = 2025-12-29 18:38:02
+2025-12-29 18:38:02,911 - INFO - PERFORMANCE LangGraph Low process duration less than 3 minutes:22.30
+2025-12-29 18:38:02,911 - INFO - PERFORMANCE LangGraph Performance optimization is optional
+2025-12-29 18:38:02,911 - INFO - END LangGraph =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-12-29 19:21:30,814 - INFO - START LangGraph =============================================
+2025-12-29 19:21:30,814 - INFO - START LangGraph Start Time = 2025-12-29 19:21:30
+2025-12-29 19:21:30,814 - INFO - LangGraph Step 0 - Initialize the configuration file parser
+2025-12-29 19:21:30,814 - INFO - Process LangGraph Step 0 - Initializing and starting Logging Process.
+2025-12-29 19:21:50,840 - INFO - PERFORMANCE LangGraph The total process duration was:20.03
+2025-12-29 19:21:50,841 - INFO - PERFORMANCE LangGraph Stop Time = 2025-12-29 19:21:50
+2025-12-29 19:21:50,841 - INFO - PERFORMANCE LangGraph Low process duration less than 3 minutes:20.03
+2025-12-29 19:21:50,841 - INFO - PERFORMANCE LangGraph Performance optimization is optional
+2025-12-29 19:21:50,841 - INFO - END LangGraph =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-12-29 19:22:10,376 - INFO - START LangGraph =============================================
+2025-12-29 19:22:10,376 - INFO - START LangGraph Start Time = 2025-12-29 19:22:10
+2025-12-29 19:22:10,376 - INFO - LangGraph Step 0 - Initialize the configuration file parser
+2025-12-29 19:22:10,376 - INFO - Process LangGraph Step 0 - Initializing and starting Logging Process.
+2025-12-29 19:22:30,403 - INFO - PERFORMANCE LangGraph The total process duration was:20.03
+2025-12-29 19:22:30,403 - INFO - PERFORMANCE LangGraph Stop Time = 2025-12-29 19:22:30
+2025-12-29 19:22:30,403 - INFO - PERFORMANCE LangGraph Low process duration less than 3 minutes:20.03
+2025-12-29 19:22:30,403 - INFO - PERFORMANCE LangGraph Performance optimization is optional
+2025-12-29 19:22:30,403 - INFO - END LangGraph =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
