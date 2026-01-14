@@ -62,12 +62,91 @@ can plan, evaluate outcomes, recover from errors, and stop when conditions are m
 
 
 
-# 🧩 LangGraph — A Framework to Jumpstart Your Agentic Projects
+## 🧠 HEALTHeINTELLIGENCE
+### ⚒️ HealtheIntelligence Progress for week 12-15-2025 to 01-02-2026
+
+1. **Defining the USE CASE** — working on **meaningful use** for client engagement to identfiy what AI is meant to solve.
+2. **Unstructured data - Docling Progress** — Successfully tested consuming CCD health care documents, and answers questions 
+3. **Intelligent Workflow - LangGraph Progress** - Successfully tested intelligent workflows 
+4. **Infrastructure Enhancement** - Added a **"testing"** environment ... we only one "Production" environment previously 
+5. **Increased Fail Over** - Platform **automatically retries 3 times** when AI fails to produce SQL 
+6. **Epidemiology Straw Man** - Use case for producing a full epidemiology report on any disease or condition in progress
+7. **Seemless LLM Registry** - Platform allows for automatic registry of any available LLM Api keys - triggers retraining if necessary
+8. **Enhanced Context** - Platform has enhanced **Research Context** to automatically remember prior conversations and research
+
+#### Note this technology is currently working but **IT IS NOT FULLY INTEGRATED** into healthy intelligence (yet)  
+
+
+
+
+
+
+## 🧠 HEALTHeINTELLIGENCE
+### ⚒️ HealtheIntelligence Progress for week 01-02-2026 to 01-07-2026
+
+1. **DANS #1 PRIORITY - Defining the USE CASE** — working on **meaningful use** for client engagement to identfiy what AI is meant to solve.
+2. **Unstructured data - Docling Progress** — Successfully tested consuming CCD health care documents, and answers questions 
+3. **Intelligent Workflow - LangGraph Progress** - Successfully tested intelligent workflows 
+4. **Infrastructure Enhancement** - Added a **"testing"** environment ... we only one "Production" environment previously 
+5. **Increased Fail Over** - Platform **automatically retries 3 times** when AI fails to produce SQL 
+6. **Epidemiology Straw Man** - Use case for producing a full epidemiology report on any disease or condition in progress
+7. **Seemless LLM Registry** - Platform allows for automatic registry of any available LLM Api keys - triggers retraining if necessary
+8. **Enhanced Context** - Platform has enhanced **Research Context** to automatically remember prior conversations and research
+
+#### Note this technology is currently working but **IT IS NOT FULLY INTEGRATED** into healthy intelligence (yet)  
+
+
+
+
+
+
+
+## 🧠 HEALTHeINTELLIGENCE
+
+### ⚒️ Next Month 
+
+1. **Defining the USE CASE**   working on **meaningful use** for client engagement to identfiy what AI is meant to solve.
+2. **Role Based Security** -  provide proof of role based security with patient identification with **patient attribution** and **affiliations**.
+3. **Refresh training** - Retrain the platform after Healthelink data conversion **(POST FUSION DATA RELEASE)**
+3. **DATA EXPANSION** - Should we use ALL Fusion Tables, Additional data sets for dashboard, attribution and affiliation dataset, CCD unstructured data
+4. **Unstructured data Integration** - Need to create **scale** and **integrate** into platform (currently we have two brains) 
+5. **Intelligent Workflow Integration**- Successfully integrate intelligent workflows 
+6. **MAGIC integration** - have Magic functions produce data science semantically   
+7. **Increased Fail Over** - Platform **automatically retries 3 times** when AI fails to produce SQL - COMPLETED AND TESTED 
+8. **Pilot Epidemiology Report** - Run epidemiology report on any disease or condition as proof of concept
+9. **Ethical GuardRail Review** - Update and test guardrails to new standards
+10. **Enhanced Feedback** - Allow users to **Provide Commentary** on thumbs down - so we can understand issues better
+11. **INTERIM USE CASE** - working on with Alyssa to see if the tool can help build **NYCE deliverables**
+
+
+
+
+
+
+# 🧩 LangGraph — A Framework to Jumpstart Your Agentic Project
 
 > Created by **ThriveAI  ...      Joe Eberle**  
 > 🗓️ Started: April 18, 2025 
 > 📫 Contact: [josepheberle@outlook.com](mailto:josepheberle@outlook.com)  
 > 🔗 GitHub: [JoeEberle](https://github.com/JoeEberle/)
+
+
+
+
+
+
+##  Conditional Graphs
+
+1. **Define the goal 🥅** — Clearly state the single problem or capability the graph is meant to solve.
+2. **Design the shared state** — Decide what information must persist and evolve across nodes.
+3. **Identify the nodes** — Break the workflow into small, single-purpose steps.
+4. **Implement node functions** — Write pure functions that take state in and return updated state.
+5. **Determine conditional logic** — Identify where decisions, branching, or retries are required.
+6. **Connect the edges** — Wire nodes together using static and conditional transitions.
+7. **Set start 🚀  and end 🛑 points** — Explicitly define how the graph begins and terminates.
+8. **Compile the graph** — Validate and lock the graph structure for execution.
+9. **Test with simple inputs** — Run minimal cases to verify state transitions and routing.
+10. **Add guardrails and logging** — Apply limits, error handling, and observability for safe execution.
 
 
 

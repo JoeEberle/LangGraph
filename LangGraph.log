@@ -1,9 +1,0 @@
-2025-12-30 16:27:49,799 - INFO - START LangGraph =============================================
-2025-12-30 16:27:49,799 - INFO - START LangGraph Start Time = 2025-12-30 16:27:49
-2025-12-30 16:27:49,799 - INFO - LangGraph Step 0 - Initialize the configuration file parser
-2025-12-30 16:27:49,799 - INFO - Process LangGraph Step 0 - Initializing and starting Logging Process.
-2025-12-30 16:28:10,975 - INFO - PERFORMANCE LangGraph The total process duration was:21.18
-2025-12-30 16:28:10,975 - INFO - PERFORMANCE LangGraph Stop Time = 2025-12-30 16:28:10
-2025-12-30 16:28:10,975 - INFO - PERFORMANCE LangGraph Low process duration less than 3 minutes:21.18
-2025-12-30 16:28:10,975 - INFO - PERFORMANCE LangGraph Performance optimization is optional
-2025-12-30 16:28:10,975 - INFO - END LangGraph =============================================

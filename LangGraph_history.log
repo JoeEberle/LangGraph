@@ -124,3 +124,17 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2026-01-07 14:32:30,569 - INFO - START LangGraph =============================================
+2026-01-07 14:32:30,569 - INFO - START LangGraph Start Time = 2026-01-07 14:32:30
+2026-01-07 14:32:30,569 - INFO - LangGraph Step 0 - Initialize the configuration file parser
+2026-01-07 14:32:30,569 - INFO - Process LangGraph Step 0 - Initializing and starting Logging Process.
+2026-01-07 14:33:10,803 - INFO - PERFORMANCE LangGraph The total process duration was:40.23
+2026-01-07 14:33:10,803 - INFO - PERFORMANCE LangGraph Stop Time = 2026-01-07 14:33:10
+2026-01-07 14:33:10,803 - INFO - PERFORMANCE LangGraph Low process duration less than 3 minutes:40.23
+2026-01-07 14:33:10,803 - INFO - PERFORMANCE LangGraph Performance optimization is optional
+2026-01-07 14:33:10,803 - INFO - END LangGraph =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
